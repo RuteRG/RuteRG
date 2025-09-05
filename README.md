@@ -25,8 +25,7 @@ Curiosa por natureza, pragmática por escolha. Finanças são meu hobby, tecnolo
 ---
 
 ### 📫 Contato
-- [LinkedIn] [Rute Ribeiro](https://www.linkedin.com/in/rute-ribeiro) 
-- [Twitter] xx
+- LinkedIn: [Rute Ribeiro](https://www.linkedin.com/in/rute-ribeiro) 
 - Email: contatoruteribeiro@gmail.com
 
 ---
@@ -37,6 +36,8 @@ Curiosa por natureza, pragmática por escolha. Finanças são meu hobby, tecnolo
 ![Análise de Dados](https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+📍 Ceará | 💡 Git & GitHub | ☕ Café & Código
 ---
 
 > “Se não tem ROI, nem me chama.”  
